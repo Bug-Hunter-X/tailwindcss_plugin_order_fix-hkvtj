@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using Tailwind CSS with PostCSS: incorrect plugin order.  The `bug.js` file shows the incorrect order, leading to Tailwind CSS not functioning properly.  The `bugSolution.js` file provides the correct order, resolving the issue.
